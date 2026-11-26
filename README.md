@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Game-AI-Card-Game-Simulations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-AI-Card-Game-Simulations?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Game-AI-Card-Game-Simulations/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Game-AI-Card-Game-Simulations?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Game-AI-Card-Game-Simulations/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Game-AI-Card-Game-Simulations?style=social" alt="GitHub forks" /></a>
   <a href="http://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -70,7 +70,7 @@ The global Digital Board Games, Trading Card Game (TCG) Platforms & Game AI Simu
 
 *Sorted descending by GitHub stargazers count. Each repository includes a social badge linking to its stargazers page.*
 
-| Repository | GitHub Stars | Focus / Category | Description |
+| Repository | GitHub_Stars | Focus / Category | Description |
 | :--- | :--- | :--- | :--- |
 | **[boardgame.io](https://github.com/boardgameio/boardgame.io)** | [![Stars](https://img.shields.io/github/stars/boardgameio/boardgame.io?style=social&color=white)](https://github.com/boardgameio/boardgame.io/stargazers) | 🌐 Web Tabletop & Game Engine | Open-source state management and game engine for turn-based board and card games with automatic multiplayer state sync and AI bots. |
 | **[open_spiel](https://github.com/google-deepmind/open_spiel)** | [![Stars](https://img.shields.io/github/stars/google-deepmind/open_spiel?style=social&color=white)](https://github.com/google-deepmind/open_spiel/stargazers) | 🧠 Multi-Agent RL & CFR | Google DeepMind's flagship collection of environments and algorithms for research in multi-agent reinforcement learning, CFR, and imperfect-information games (Poker, Bridge, Hearts, Hanabi). |
